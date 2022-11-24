@@ -1,2 +1,9 @@
 /venv_u/
 /venv_w/
+/.idea/.gitignore
+/.idea/flask_blog_ubuntu.iml
+/.idea/misc.xml
+/.idea/modules.xml
+/.idea/inspectionProfiles/profiles_settings.xml
+/.idea/inspectionProfiles/Project_Default.xml
+/.idea/vcs.xml
